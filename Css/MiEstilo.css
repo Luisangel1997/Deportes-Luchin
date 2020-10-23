@@ -1,0 +1,37 @@
+.logo{
+    width: 50px;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    color: #eae1e1;
+}
+
+main{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+footer{
+	background-color:#333;
+	height: 110px;
+}
+.card{
+	margin: 3px;
+	width: 288px;
+	height: 100%;
+	display: inline-block;
+}
+
+.galeria img{
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+
+#carouselExampleControls{
+	width:95%;
+}
+
+#imgcar{
+    height: 350px;
+}
